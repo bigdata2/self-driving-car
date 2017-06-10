@@ -17,6 +17,8 @@ The goals / steps of this project are the following:
 
 ### Description
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/bVtMK7KwavY/0.jpg)](https://www.youtube.com/watch?v=bVtMK7KwavY)
+
 The template for the this pipline was taken from Udacity Self-Driving Car Nanodegree. 
 
 My pipeline consisted of 5 steps. First, I converted the images to HSV color space, then I created a mask to filter
