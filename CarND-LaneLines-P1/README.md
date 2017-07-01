@@ -5,7 +5,7 @@
 
 **Goals**
 
-The goals of this project is to make a pipeline that finds lane lines on the road.
+The goal of this project is to make a pipeline that finds lane lines on the road.
 
 
 [//]: # (Image References)
