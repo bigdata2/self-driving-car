@@ -10,6 +10,9 @@ The goals of this project are:
 - Drive using the trained model on a challenge track, the images/frames of which have never been seen the trained model.
 - Keep the car on the road at all times and avoid collisions with objects in the simulation.
 - Finish one lap (drive back to the starting point) of both the tracks by observing the aforementioned constrains.
+- Use RNN (LSTM) to compare the accuracy of the two models (goal not yet met).
+
+These goals were set by me and are not part of Uadcity's self-driving project as I am not enrolled in that program.
 
 [//]: # (Image References)
 
