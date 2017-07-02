@@ -22,7 +22,7 @@ The goal of this project is .... coming soon.
 ### Dependencies
 I have built and tested this model on Linux (Ubuntu 16.04). The model has the following dependencies:
 - Udacity's simulator which can be found [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58983558_beta-simulator-linux/beta-simulator-linux.zip)
-- The model requires a few libraries all of which can be easily setup using miniconda instructions [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
+- The model requires a few libraries all of which can be easily setup using miniconda, instructions [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
 - Nvidia GPU (optional) 
 
 
