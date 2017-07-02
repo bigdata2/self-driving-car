@@ -56,7 +56,7 @@ I have built and tested this model on Linux (Ubuntu 16.04). The model has the fo
  - [Dell PowerEdge 710](https://www.dell.com/downloads/global/products/pedge/en/server-poweredge-r710-tech-guidebook.pdf) with 64 GB DRAM
  - A [x16 PCI riser card](https://www.serversupply.com/ACCESSORIES/RISER%20CARD/POWEREDGE/DELL/GP347.htm) for R710
  - [PCI riser cable](https://www.newegg.com/Product/Product.aspx?Item=N82E16812183020&ignorebbr=1&nm_mc=KNC-GoogleAdwords-PC&cm_mmc=KNC-GoogleAdwords-PC-_-pla-_-Cables+-+Internal+Power+Cables-_-N82E16812183020&gclid=CN_UmtTt6dQCFYZffgodSIAImw&gclsrc=aw.ds) to connect GPU which sits externally on the top cover of R710
- - A 750 Watt external power supply to power the GPU
+ - A 750 Watt external power supply and an [ATX Power Supply Terminator](http://www.frys.com/product/6489932) to power the GPU
  - Nvidia 1080 TI GPU
  - A lot of patience. Yes, it took me a while to put all the pieces together and make them work with the correct software configuration.
 
