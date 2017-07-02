@@ -49,5 +49,8 @@ I have built and tested this model on Linux (Ubuntu 16.04). The model has the fo
 - Open simulator by executing ./linux_sim.x86_64
 - Execute the model using the following command: python drive.py  model.json
 
+
+### Hardware
+
 ### Future/Current work
 I am working on a different model to use LSTM after the (3d?) convolution layers. This should enhance the accuracy on curved roads where it can start correcting the steering angle early on and provide a smooth turn. Second, I will include speed as an ouput in addition to angle so that the car can slow down at curves and speed up at straight roads. 
