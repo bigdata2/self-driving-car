@@ -29,6 +29,7 @@ These goals were set by me and are not part of Uadcity's self-driving project as
 ### Description
 Coming soon
 
+![alt text](https://github.com/bigdata2/self-driving-car/blob/master/CarND-Behavioral-Cloning-P3/images/nvidia_model.png "Nvidia Model")
 
 ### Details
 This is a work in progress, I will add more details as I get time.
