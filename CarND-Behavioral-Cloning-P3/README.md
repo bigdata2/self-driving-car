@@ -41,7 +41,7 @@ The model was trained on track1 exclusively, i.e. the during training the model 
 ### Dependencies
 I have built and tested this model on Linux (Ubuntu 16.04). The model has the following dependencies:
 - Udacity's simulator which can be found [here](https://d17h27t6h515a5.cloudfront.net/topher/2017/February/58983558_beta-simulator-linux/beta-simulator-linux.zip)
-- The model requires a few libraries (tensorflow-gpu, keras, opencv, numpy...) all of which can be easily setup using miniconda, instructions [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
+- The model requires a few libraries including [tensorflow-gpu](https://www.tensorflow.org/install/install_linux#gpu_support), [keras](https://github.com/fchollet/keras), [opencv](http://opencv.org/), [numpy](http://www.numpy.org/), all of which can be easily setup using miniconda, instructions [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md)
 - Nvidia GPU (optional) 
 
 
