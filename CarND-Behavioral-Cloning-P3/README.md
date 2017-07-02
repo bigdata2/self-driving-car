@@ -5,8 +5,11 @@
 
 **Goals**
 
-The goal of this project is .... coming soon.
-
+The goals of this project are:
+- Design and train a neural network model so that it can drive on a track on which it was trained on.
+- Drive using the trained model on a challenge track, the images/frames of which have never been seen the trained model.
+- Keep the car on the road at all times and avoid collisions with objects in the simulation.
+- Finish one lap (drive back to the starting point) of both the tracks by observing the aforementioned constrains.
 
 [//]: # (Image References)
 
