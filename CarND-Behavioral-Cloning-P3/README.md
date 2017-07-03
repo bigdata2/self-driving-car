@@ -28,7 +28,7 @@ These goals were set by me and are not part of Uadcity's self-driving project as
 [![Track2](https://img.youtube.com/vi/Zhd47unbbEc/0.jpg)](https://www.youtube.com/watch?v=Zhd47unbbEc&t=73s)
 
 #### Results for optimized model
-- 280K parameters -- a 25 times decrease in model parameters without losing image accuracy i.e. the image input to the model is still 75x320. 
+- 280K parameters -- a 25 times decrease in model parameters without losing image accuracy i.e. the image input to the model is still 75x320. The total number of parameters for this model are at par with Nvidia's model (250K), yet the image input to the model is of higher resolution 75x320 vs. 66x200.
 - The car is able to complete both track 1 and the challenge track within the constraints. 
 - A 2 times decrease in training time and over 1.5 times decrease in training loss compared to baseline.
 
