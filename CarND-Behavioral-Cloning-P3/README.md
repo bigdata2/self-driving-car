@@ -23,7 +23,7 @@ These goals were set by me and are not part of Uadcity's self-driving project as
 ### Results
 
 #### Initial Results
-5M parameters -- image input to the model is 75x320
+5M parameters -- image input to the model is 75x320                                                                                           
 [![Track1](https://img.youtube.com/vi/sySmG0PEE14/0.jpg)](https://www.youtube.com/watch?v=sySmG0PEE14&t=2s)
 [![Track2](https://img.youtube.com/vi/Zhd47unbbEc/0.jpg)](https://www.youtube.com/watch?v=Zhd47unbbEc&t=73s)
 
@@ -32,8 +32,8 @@ These goals were set by me and are not part of Uadcity's self-driving project as
 - The car is able to complete both track 1 and the challenge track within the constraints. 
 - A 2 times decrease in training time and over 1.5 times decrease in training loss compared to baseline.
 
-[![Track1](https://img.youtube.com/vi/I_JYEPtcm5Q/0.jpg)](https://www.youtube.com/watch?v=I_JYEPtcm5Q&t=2s)
-[![Track2](https://img.youtube.com/vi/tLaOe8gNrFY/0.jpg)](https://www.youtube.com/watch?v=tLaOe8gNrFY&t=73s)
+[![Track1_1](https://img.youtube.com/vi/I_JYEPtcm5Q/0.jpg)](https://www.youtube.com/watch?v=I_JYEPtcm5Q&t=2s)
+[![Track2_1](https://img.youtube.com/vi/tLaOe8gNrFY/0.jpg)](https://www.youtube.com/watch?v=tLaOe8gNrFY&t=73s)
 
 
 ### Data
