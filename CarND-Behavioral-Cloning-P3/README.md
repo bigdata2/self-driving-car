@@ -5,12 +5,12 @@
 
 **Goals**
 
-The goals of this project are:
+The goals of this project were:
 - Design and train a neural network model so that it can drive on a track on which it was trained on.
 - Drive using the trained model on a challenge track, the images/frames of which have never been seen the trained model.
 - Keep the car on the road at all times and avoid collisions with objects in the simulation.
 - Finish one lap (drive back to the starting point) of both the tracks by observing the aforementioned constrains.
-- Use RNN (LSTM) in the model.
+- Create a model using RNN (LSTM).
 
 These goals were set by me and are not part of Uadcity's self-driving project as I am not enrolled in that program.
 
