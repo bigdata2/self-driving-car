@@ -70,4 +70,4 @@ I have built and tested this model on Linux (Ubuntu 16.04). The model has the fo
  - Nvidia 1080 TI GPU
 
 ### Additional work
-I implemented a Recurrent Neural Network model with convolution layers and Long Short Term Memory (LSTM). With LSTM model, the car is able to drive on the track much more smoothly compared to covnet model. However, it goes off track towards the end of the track. The reason is that training data from Udacity is not one continuous sequence of frames but multiple sequences starting from different locations on the track and I did not augment/preprocess data like I did for the covnet model.
+I implemented a Recurrent Neural Network model with convolution layers and Long Short Term Memory (LSTM). With LSTM model, the car is able to drive on the track much more smoothly compared to covnet model. However, it goes off track towards the end of the track. The reason is that the training data from Udacity is not one continuous sequence of frames but multiple sequences starting from different locations on the track and I did not preprocess data to remove discontinuities.
